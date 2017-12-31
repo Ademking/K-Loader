@@ -2,6 +2,7 @@
 
 K-Loader is a tiny "Script Loader" : (Javascript , Stylesheet & Font Loader) Just by typing the name of dependencies, it can load and execute them in order .
 
+## +3279 Dependencies Just for you 💖
 Need to quickly load a JS , CSS or Font file ? No Problem ! 😁
 
 You will not have to search for CDN Links in your html files 😎 Cool !
