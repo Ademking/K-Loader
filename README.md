@@ -9,6 +9,8 @@ You will not have to search for CDN Links in your html files 😎 Cool !
 
 Using a script loader like K-Loader will improve the speed and quality of your code.
 
+----------
+
 + [How To Use K-Loader ?](#how-do-i-use-k-loader-)
 
 + [List Of CSS Dependencies](#list-of-css-dependecies)
@@ -3337,3 +3339,18 @@ zuck.js | loader("zuck.js");
 zui | loader("zui");
 zumper-angular-payments | loader("zumper-angular-payments");
 zxcvbn | loader("zxcvbn");
+
+----------
+
+### List Of Fonts
+
+"K-Loader" is using Google Fonts API. To Use a font just type the name of the font from [Google Fonts](https://fonts.google.com)
+For Example :
+1. Go to Google Fonts Page
+2. Choose any font you want to use to your project, i will use in this example "Raleway"
+![](https://i.imgur.com/8WO3lzb.png)
+3. In your script, write like this :
+```javascript
+   fontloader("Raleway");
+```
+Tada ! That's All ...
