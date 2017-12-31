@@ -38,7 +38,7 @@ Using a script loader like K-Loader will improve the speed and quality of your c
 
 5. Your final code will look like this :
 
-```HTML
+{% highlight html %}
  <html>
  <head>
  <script src="k-loader.min.js"></script>
@@ -51,12 +51,10 @@ Using a script loader like K-Loader will improve the speed and quality of your c
  <!-- Your Website Code -->
  </body>
  </html>
- 
- 
- 
- 
- 
-```
+{% endhighlight %}
+
+
+
 
 
 
