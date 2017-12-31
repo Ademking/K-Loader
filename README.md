@@ -20,10 +20,13 @@ Using a script loader like K-Loader will improve the speed and quality of your c
 
 2. Paste it before </head>
 
-3. Write This Code To Load Dependecies That You Need.. (Example)
+3. Write This Code To Load Dependecies That You Need (Only JS & CSS).
+For Example, I will use "Bootstrap" , "Jquery" and "Animate.CSS"
 
 ```HTML
 <script>
-
+   loader("bootstrap" , "jquery" , "animate");
 </script>
 ```
+
+
