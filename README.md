@@ -12,10 +12,18 @@ Using a script loader like K-Loader will improve the speed and quality of your c
 
 ### HOW DO I USE "K-Loader" ?
 
-EasyPeasy: HTML <head> made easy !
-
 1. Download K-Loader from Here (This Link) Or Use Our CDN
-```
+
+```HTML
 <script src="https://google.com"></script>
 ```
 
+2. Paste it before </head>
+
+3. Write This Code To Load Dependecies That You Need.. (Example)
+
+```HTML
+<script>
+
+</script>
+```
