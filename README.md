@@ -8,7 +8,15 @@ You will not have to search for CDN Links in your html files 😎 Cool !
 
 Using a script loader like K-Loader will improve the speed and quality of your code.
 
-[link](#list-of-css-dependecies)
++ [How To Use K-Loader ?](#how-do-i-use-k-loader-)
+
++[List Of CSS Dependencies](#list-of-css-dependecies)
+
++ [List Of Javascript Dependencies](#list-of-js-dependencies-)
+
++ [List Of Fonts](#list-of-css-dependecies)
+
+
 ----------
 
 ### HOW DO I USE "K-Loader" ?
