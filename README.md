@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to K-Loader
 
 You can use the [editor on GitHub](https://github.com/Ademking/K-Loader/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
