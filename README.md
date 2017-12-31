@@ -15,7 +15,7 @@ Using a script loader like K-Loader will improve the speed and quality of your c
 EasyPeasy: HTML <head> made easy !
 
 1. Download K-Loader from Here (This Link) Or Use Our CDN
-```javascript
+```
 <script src="https://google.com"></script>
 ```
 
