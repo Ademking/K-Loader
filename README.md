@@ -20,7 +20,7 @@ Using a script loader like K-Loader will improve the speed and quality of your c
 
 2. Paste it before </head>
 
-3. To Load Dependecies (Js & CSS) , use this function : `loader("<library1>" , "<library2>" , ... );`
+3. To Load Dependecies (Js & CSS) , <br/> use this function : `loader("<library1>" , "<library2>" , ... );`
 
 + For Example, I will use "Bootstrap" , "Jquery" and "Animate.CSS" in my project :
 
@@ -28,7 +28,7 @@ Using a script loader like K-Loader will improve the speed and quality of your c
    loader("bootstrap" , "jquery" , "animate");
 ```
 
-4. If You Want To Add Fonts in your project, use this function : `fontloader("<font1>" , "<font2>" , ...)`
+4. If You Want To Add Fonts in your project, <br/> use this function : `fontloader("<font1>" , "<font2>" , ...)`
 
 + For Example, I will use "Cairo" , "Quicksand" and "Pacifico" fonts in my project :
 
