@@ -10,7 +10,7 @@ Using a script loader like K-Loader will improve the speed and quality of your c
 
 + [How To Use K-Loader ?](#how-do-i-use-k-loader-)
 
-+[List Of CSS Dependencies](#list-of-css-dependecies)
++ [List Of CSS Dependencies](#list-of-css-dependecies)
 
 + [List Of Javascript Dependencies](#list-of-js-dependencies-)
 
