@@ -53,7 +53,7 @@ Using a script loader like K-Loader will improve the speed and quality of your c
 {% highlight html %}
  <html>
  <head>
- <script src="k-loader.min.js"></script>
+ <script src="https://ademking.github.io/K-Loader/kloader.min.js"></script>
  <script>
     loader("bootstrap" , "jquery" , "animate");
     fontloader("Cairo", "Quicksand", "Pacifico");
