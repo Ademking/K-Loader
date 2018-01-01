@@ -27,7 +27,7 @@ Using a script loader like K-Loader will improve the speed and quality of your c
 1. Download K-Loader from Here (This Link) Or Use Our CDN
 
 {% highlight html %}
-<script src="https://ademking.github.io/K-Loader/kloader.min.js"></script>
+<script src="https://cdn.rawgit.com/Ademking/K-Loader/bea72cbf/kloader.min.js"></script>
 {% endhighlight %}
 
 2. Paste it before </head>
