@@ -26,9 +26,9 @@ Using a script loader like K-Loader will improve the speed and quality of your c
 
 1. Download K-Loader from [Here](https://github.com/Ademking/K-Loader/zipball/master) Or Use Our CDN
 
-{% highlight html %}
+```html
 <script src="https://cdn.rawgit.com/Ademking/K-Loader/bea72cbf/kloader.min.js"></script>
-{% endhighlight %}
+```
 
 2. Paste it before </head>
 
@@ -50,27 +50,26 @@ Using a script loader like K-Loader will improve the speed and quality of your c
 
 5. Your final code will look like this :
 
-{% highlight html %}
+```html
  <html>
- <head>
- <script src="https://ademking.github.io/K-Loader/kloader.min.js"></script>
- <script>
-    loader("bootstrap" , "jquery" , "animate");
-    fontloader("Cairo", "Quicksand", "Pacifico");
- </script>
- </head>
- <body>
- <!-- Your Website Code -->
- </body>
+   <body>
+     <!-- Your Website HTML -->
+
+     <script src="https://ademking.github.io/K-Loader/kloader.min.js"></script>
+     <script>
+        loader("bootstrap" , "jquery" , "animate");
+        fontloader("Cairo", "Quicksand", "Pacifico"); 
+     </script>
+   </body>
  </html>
-{% endhighlight %}
+```
 
 
 ### 😁😁😁 Easy Peasy ! Right ? 😁😁😁
 
 ----------
 
-## List Of CSS Dependecies 
+## List Of CSS Dependecies
 
 CSS Dependecies | How To Write function
 --- | ---
